@@ -49,6 +49,7 @@ class SubLearn(QMainWindow):
             pass
     
     def add_item_tableSub(self, file):
+        self.ui.tableSub.setRowCount(0)
         sublist = get_subtitles(file)
         for i in sublist:
             rowPosition = self.ui.tableSub.rowCount()
