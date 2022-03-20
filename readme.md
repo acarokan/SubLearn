@@ -9,6 +9,6 @@
 ### Doğrudan elle yazılırak da çeviri yapılabilir.
 
 ![](https://github.com/acarokan/SubLearn/blob/master/screenshots/Screenshot_1.png)
-![](https://github.com/acarokan/SubLearn/blob/master/screenshots/Screenshot_2.png)
 ![](https://github.com/acarokan/SubLearn/blob/master/screenshots/Screenshot_3.png)
 ![](https://github.com/acarokan/SubLearn/blob/master/screenshots/Screenshot_4.png)
+![](https://github.com/acarokan/SubLearn/blob/master/screenshots/Screenshot_2.png)
